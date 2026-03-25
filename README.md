@@ -1,0 +1,81 @@
+# NOISEMAKER – KINTSUGI
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Lost my compass, not my direction
+My way, but not my foundation
+Rising from the ash, we take our shape.
+as scarred imperfect metal
+Now looking back
+my fevered steps,
+were all meant to brace for cold days
+I Couldn’t stay
+in buried depths.
+So that was the only reason to stand
+We’ve sharpened up
+打ちのめされた数
+We’re flying high
+また目覚め羽ばたく
+Time flies, can’t take it back
+奇跡を待つ暇は無い
+Coming from nothing, out of burning dust.
+Awake in ash baby, we’re still around.
+I’m forged in the fire, in the fire for this
+Under the hammer my red hot edge won’t flake
+Coming from nothing we are
+the ones who stand
+Coming from nothing we are
+the ones who dare
+I’m forged in the fire, in the fire for this
+Under the hammer, I’m rusted but didn’t break
+Coming from nothing, we are cracked gold
+We’re running through the pain
+All the Blood and dirt became my stain
+But I held on tight to what remained
+Let us show you where we stand
+You lose it if you hold too tight
+(Hold too tight) Just drop the weight and reach
+the height
+(Reach the height) now here we are,   like by
+design
+Not made to shine, just made to burn. (from ash
+and dust)
+Coming from nothing, out of burning dust.
+Awake in ash baby, we’re still around.
+I’m forged in the fire, in the fire for this
+Under the hammer my red hot edge won’t flake
+Coming from nothing we are
+the ones who stand
+Coming from nothing we are
+the ones who dare
+I’m forged in the fire, in the fire for this
+Under the hammer, I’m rusted but didn’t break
+Coming from nothing, we are cracked gold
+Lost my compass, not my direction
+My way, but not my foundation
+Rising from the ash, we take our shape.
+Up to another level
+Lost my compass, not my direction
+My way, but not my foundation
+Rising from the ash, we take our shape.
+Beaten to hardened metal
+How many times we choke?
+How many left us here alone in smoke?
+Couldn’t find it, couldn't shine it, couldn’t
+win it,
+Still a reason.
+We're still here- burning without a flame.
+COMING FROM NOTHING
+Coming from nothing, out of burning dust.
+Awake in ash baby, we’re still around.
+I’m forged in the fire, in the fire for this
+Under the hammer my red hot edge won’t flake
+Coming from nothing we are
+the ones who stand
+Coming from nothing we are
+the ones who dare
+I’m forged in the fire, in the fire for this
+Under the hammer, I’m rusted but didn’t break
+Coming from nothing, we are cracked gold
+```
