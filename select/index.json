@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "KINTSUGI",
+  "base_artist": "NOISEMAKER",
+  "createdAt": "2026-03-25T11:49:05.913534Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kintsugi",
+      "artist": "Moonlight Haze",
+      "has_synced": true,
+      "path": "select/01_Kintsugi_Moonlight_Haze.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kintsugi",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/02_Kintsugi_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Kintsugi Kid (Ten Years)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/03_The_Kintsugi_Kid_(Ten_Years)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kintsugi",
+      "artist": "Gabrielle Aplin",
+      "has_synced": true,
+      "path": "select/04_Kintsugi_Gabrielle_Aplin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "KINTSUGI",
+      "artist": "Genetikk",
+      "has_synced": true,
+      "path": "select/05_KINTSUGI_Genetikk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kintsugi",
+      "artist": "Ghemon",
+      "has_synced": true,
+      "path": "select/06_Kintsugi_Ghemon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kintsugi (feat. Tamzene)",
+      "artist": "Abstract",
+      "has_synced": false,
+      "path": "select/07_Kintsugi_(feat._Tamzene)_Abstract.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kintsugi",
+      "artist": "Like Moths to Flames",
+      "has_synced": false,
+      "path": "select/08_Kintsugi_Like_Moths_to_Flames.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kintsugi",
+      "artist": "Al Safir feat. Richie Rasheed",
+      "has_synced": true,
+      "path": "select/09_Kintsugi_Al_Safir_feat._Richie_Rasheed.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kintsugi",
+      "artist": "Al Safir/Richie Rasheed",
+      "has_synced": true,
+      "path": "select/10_Kintsugi_Al_Safir_Richie_Rasheed.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "INTRO - KINTSUGI",
+      "artist": "EL GG feat. Los del Control",
+      "has_synced": true,
+      "path": "select/11_INTRO_-_KINTSUGI_EL_GG_feat._Los_del_Control.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "INTRO - KINTSUGI",
+      "artist": "LA GG/Los del Control",
+      "has_synced": true,
+      "path": "select/12_INTRO_-_KINTSUGI_LA_GG_Los_del_Control.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "INTRO - KINTSUGI",
+      "artist": "EL GG/Los del Control",
+      "has_synced": true,
+      "path": "select/13_INTRO_-_KINTSUGI_EL_GG_Los_del_Control.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KINTSUGI feat. Koie",
+      "artist": "NOISEMAKER",
+      "has_synced": false,
+      "path": "select/pl_01_KINTSUGI_feat._Koie_NOISEMAKER.txt"
+    }
+  ]
+}
